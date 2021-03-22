@@ -3,7 +3,6 @@ import keyboard
 import cv2
 import mediapipe as mp
 
-move_mode = True
 mp_drawing = mp.solutions.drawing_utils
 mp_hands = mp.solutions.hands
 
