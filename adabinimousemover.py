@@ -1,3 +1,4 @@
+#!/usr/bin/python
 import pyautogui
 import keyboard
 import cv2
