@@ -1,6 +1,5 @@
 #!/usr/bin/python
 import pyautogui
-import keyboard
 import cv2
 import mediapipe as mp
 
