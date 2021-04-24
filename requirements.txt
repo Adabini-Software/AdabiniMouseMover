@@ -1,4 +1,3 @@
 opencv-python==4.5.1.48
 PyAutoGUI==0.9.52
 mediapipe==0.8.2
-keyboard==0.13.5
