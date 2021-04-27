@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/env python
 import pyautogui
 import cv2
 import mediapipe as mp
